@@ -5924,6 +5924,17 @@
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x77189c36628dE597f9EDE7005534f12F4fA08C35.png",
             "decimals": 18,
             "isNative": false
+        },
+        {
+            "id": "HTT8000-PULSECHAIN-0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6",
+            "address": "0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6",
+            "chainId": 369,
+            "name": "HEX Time Token 8000",
+            "symbol": "HTT-8000",
+            "icon": "htt8000",
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6.png",
+            "decimals": 18,
+            "isNative": false
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
