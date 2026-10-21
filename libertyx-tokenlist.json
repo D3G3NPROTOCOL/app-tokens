@@ -297,9 +297,9 @@
             "id": "BEAR-PULSECHAIN-0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d",
             "address": "0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d",
             "chainId": 369,
-            "name": "Teddy Bear",
-            "symbol": "BEAR",
-            "icon": "bear",
+            "name": "BEAR",
+            "symbol": "TEDDY BEAR",
+            "icon": "teddybear",
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d.png",
             "decimals": 18,
             "isNative": false
