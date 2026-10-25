@@ -3271,7 +3271,7 @@
             "symbol": "BLSEYE",
             "icon": "blseye",
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xeAb7c22B8F5111559A2c2B1A3402d3FC713CAc27.png",
-            "decimals": 18,
+            "decimals": 10,
             "isNative": false
         },
         {
@@ -5933,7 +5933,7 @@
             "symbol": "HTT-8000",
             "icon": "htt8000",
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6.png",
-            "decimals": 18,
+            "decimals": 8,
             "isNative": false
         },
         {
