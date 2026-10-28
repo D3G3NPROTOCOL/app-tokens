@@ -8,13 +8,13 @@
     },
     "tokens": [
         {
-            "id": "LBS-PULSECHAIN-0xf4e3cefa53051c55be2496bc53a420a092914406",
-            "address": "0xf4e3cefa53051c55be2496bc53a420a092914406",
+            "id": "LBS-PULSECHAIN-0x3905f9aa638efde3c7629a4bc8214432a54c127e",
+            "address": "0x3905f9aa638efde3c7629a4bc8214432a54c127e",
             "chainId": 369,
             "name": "Liberty Coin",
             "symbol": "LBS",
             "icon": "lbs",
-            "logoURI": "https://cdn.libertyswap.finance/launchpads/0xf4e3cefa53051c55be2496bc53a420a092914406.png",
+            "logoURI": "https://cdn.libertyswap.finance/launchpads/coins/0x3905f9aa638efde3c7629a4bc8214432a54c127e.png",
             "decimals": 18,
             "isNative": false
         },
